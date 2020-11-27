@@ -60,6 +60,7 @@ hr {
 
 .navigation .nav-brand {
   font-weight: bold;
+  font-size: 1.3rem;
 }
 
 .navigation .link {
@@ -116,6 +117,7 @@ hr {
 
 .footer-header {
   font-weight: bold;
+  font-size: large;
 }
 .footer .link {
   color: white;
