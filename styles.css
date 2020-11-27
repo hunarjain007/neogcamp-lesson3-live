@@ -28,6 +28,10 @@ hr {
 .link {
   text-decoration: none;
   padding: 0.5rem 1rem;
+  display: inline-block;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  margin-right: 0.5rem;
 }
 
 .link-primary {
@@ -60,7 +64,7 @@ hr {
 
 .navigation .nav-brand {
   font-weight: bold;
-  font-size: 1.3rem;
+  font-size: xx-large;
 }
 
 .navigation .link {
