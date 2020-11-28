@@ -95,15 +95,21 @@ hr {
   text-align: center;
 }
 
-.hero .hero-heading-blog {
+.blog-heading {
   padding-top: 1rem;
   color: var(--dark-gray);
   text-align: left;
 }
 
-.hero .hero-heading-small {
-  margin-bottom: 1rem; 
+.blog-small {
+  margin-bottom: 2rem; 
   display: inline-block;
+}
+
+.blog-img{
+  max-width: 350px;
+  display: block;
+  margin: auto;
 }
 
 .hero .hero-heading .heading-inverted {
