@@ -95,6 +95,17 @@ hr {
   text-align: center;
 }
 
+.hero .hero-heading-blog {
+  padding-top: 1rem;
+  color: var(--dark-gray);
+  text-align: left;
+}
+
+.hero .hero-heading-small {
+  margin-bottom: 1rem; 
+  display: inline-block;
+}
+
 .hero .hero-heading .heading-inverted {
   color: var(--primary-color);
 }
